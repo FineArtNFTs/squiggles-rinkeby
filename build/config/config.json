@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x82DEfD34308eCB8C96d3BB09323eb743B4c753bb",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf2f86144b0102a945a71a3fbb7e1313a4376d044",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Suiggles",
+  "SYMBOL": "Squiggles",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 7000000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://https://opensea.io/collection/metafreeks",
+  "SHOW_BACKGROUND": true
+}
